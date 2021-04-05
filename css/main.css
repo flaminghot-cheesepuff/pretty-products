@@ -88,3 +88,12 @@ ul a {
 ul a img {
   margin-right: .25em;
 }
+
+.btn {
+  background-color: #6f00e7;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  padding: .5em 1.5em .7em;
+  border-radius: 3em;
+}
